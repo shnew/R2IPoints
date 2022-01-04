@@ -12,3 +12,4 @@ The overview of R2IPoints:
 ### Datasets preparation
 * DIOR 
 * DOTA: https://captain-whu.github.io/DOTA/
+  * code for cutting images: https://github.com/dingjiansw101/AerialDetection/tree/master/DOTA_devkit
