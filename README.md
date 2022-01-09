@@ -10,6 +10,6 @@ Codes for R2IPoints : Pursuing Rotation-Insensitive Point Representation for Aer
 * mmdet==1.2.0  
 * mmcv==0.3.1  
 ### Datasets preparation
-* DIOR 
+* DIOR: http://www.escience.cn/people/gongcheng/DIOR.html
 * DOTA: https://captain-whu.github.io/DOTA/
   * code for cutting images: https://github.com/dingjiansw101/AerialDetection/tree/master/DOTA_devkit
