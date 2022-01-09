@@ -16,5 +16,5 @@ Codes for R2IPoints : Pursuing Rotation-Insensitive Point Representation for Aer
 * DOTA: https://captain-whu.github.io/DOTA/
   * code for cutting images: https://github.com/dingjiansw101/AerialDetection/tree/master/DOTA_devkit
 ### Quick start
-* python tools/train.py ./configs/R2IPoints/R2IPoints_moment_r101_fpn_2x_DIOR.py 
-* python tools/test.py  ./configs/R2IPoints/R2IPoints_moment_r101_fpn_2x_DIOR.py ${CHECKPOINT_FILE} --eval mAP
+* python tools/train.py  ./configs/R2IPoints/R2IPoints_moment_r101_fpn_2x_DIOR.py 
+* python tools/test.py   ./configs/R2IPoints/R2IPoints_moment_r101_fpn_2x_DIOR.py  ${CHECKPOINT_FILE}  --eval  mAP
