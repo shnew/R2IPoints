@@ -18,3 +18,5 @@ Codes for R2IPoints : Pursuing Rotation-Insensitive Point Representation for Aer
 ### Quick start
 * python tools/train.py  ./configs/R2IPoints/R2IPoints_moment_r101_fpn_2x_DIOR.py 
 * python tools/test.py   ./configs/R2IPoints/R2IPoints_moment_r101_fpn_2x_DIOR.py  ${CHECKPOINT_FILE}  --eval  mAP
+### pre-trained models
+* https://download.pytorch.org/models/resnet101-5d3b4d8f.pth
